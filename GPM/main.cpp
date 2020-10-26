@@ -1,3 +1,7 @@
+// Compilation
+// - MSVC developer command prompt: cl /Wall /EHsc /o main.exe main.cpp
+// - clang++ or g++: [clang++|g++] -Wall -o main.exe main.cpp
+
 #include "types.h"
 #include <iostream>
 
